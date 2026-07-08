@@ -42,4 +42,4 @@ This repository contains projects showcasing my skills in SQL, Power BI, Excel, 
 ## 📫 Contact
 LinkedIn: (Add your LinkedIn URL)
 
-Email: (Add your email)
+Email: (atharvauttekar51@gmail.com)
