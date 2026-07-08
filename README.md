@@ -1,16 +1,45 @@
-## Hi there 👋
+# 📊 Data Analytics Portfolio
 
-<!--
-**Atharvauttekar/Atharvauttekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Data Analytics Portfolio!
 
-Here are some ideas to get you started:
+This repository contains projects showcasing my skills in SQL, Power BI, Excel, and Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+
+## Projects
+1. 📱 Mobile Sales Dashboard (Power BI)
+2. 🛒 Supermarket Sales Dashboard (Power BI)
+3. ☕ Starbucks Daily Sales Analysis (SQL + Power BI)
+
+### 📱 Mobile Sales Dashboard
+- Power BI Dashboard
+- Dataset: Kaggle
+- Sales Analysis
+- Customer Insights
+
+### 🛒 Supermarket Sales Dashboard
+- Power BI Dashboard
+- Dataset: Kaggle
+- Revenue Analysis
+- Branch Performance
+
+### ☕ Starbucks Daily Sales Analysis
+- SQL Project
+- PostgreSQL
+- Sales Trend Analysis
+- Product Performance
+
+## 🛠️ Skills
+- SQL
+- PostgreSQL
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+
+## 📫 Contact
+LinkedIn: (Add your LinkedIn URL)
+
+Email: (Add your email)
