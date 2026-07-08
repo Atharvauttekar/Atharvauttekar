@@ -40,6 +40,6 @@ This repository contains projects showcasing my skills in SQL, Power BI, Excel, 
 - Data Visualization
 
 ## 📫 Contact
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: (www.linkedin.com/in/atharvauttekar)
 
 Email: (atharvauttekar51@gmail.com)
