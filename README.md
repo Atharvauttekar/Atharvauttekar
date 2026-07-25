@@ -10,6 +10,8 @@ This repository contains projects showcasing my skills in SQL, Power BI, Excel, 
 1. 📱 Mobile Sales Dashboard (Power BI)
 2. 🛒 Supermarket Sales Dashboard (Power BI)
 3. ☕ Starbucks Daily Sales Analysis (SQL + Power BI)
+4. 🏥 Hospital healthcare storke Analysis (SQL)
+5.  Youtube Statistics Report (Power BI)
 
 ### 📱 Mobile Sales Dashboard
 - Power BI Dashboard
@@ -28,6 +30,20 @@ This repository contains projects showcasing my skills in SQL, Power BI, Excel, 
 - PostgreSQL
 - Sales Trend Analysis
 - Product Performance
+
+### 📺 YouTube Statistics Report
+- Power BI Dashboard
+- Dataset: Kaggle
+- Channel Performance Analysis
+- Subscriber & Views Insights
+- Interactive Data Visualization
+
+### 🏥 Healthcare Stroke Analysis
+- SQL Project
+- PostgreSQL
+- Healthcare Data Analysis
+- Stroke Risk Analysis
+
 
 ## 🛠️ Skills
 - SQL
